@@ -1,0 +1,5 @@
+Evaluations: Accuracy, precision, recall, AUC, F1
+
+"feature engineering": regularization with LASSO, rideg regression, PCA
+
+models: logistic regression, MLP (with regularization)
